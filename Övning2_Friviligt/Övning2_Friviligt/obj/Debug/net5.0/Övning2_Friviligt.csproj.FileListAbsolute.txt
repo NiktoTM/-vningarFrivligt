@@ -1,0 +1,16 @@
+C:\Users\christopher.thomasi\source\repos\Övning2_Friviligt\Övning2_Friviligt\bin\Debug\net5.0\Övning2_Friviligt.exe
+C:\Users\christopher.thomasi\source\repos\Övning2_Friviligt\Övning2_Friviligt\bin\Debug\net5.0\Övning2_Friviligt.deps.json
+C:\Users\christopher.thomasi\source\repos\Övning2_Friviligt\Övning2_Friviligt\bin\Debug\net5.0\Övning2_Friviligt.runtimeconfig.json
+C:\Users\christopher.thomasi\source\repos\Övning2_Friviligt\Övning2_Friviligt\bin\Debug\net5.0\Övning2_Friviligt.runtimeconfig.dev.json
+C:\Users\christopher.thomasi\source\repos\Övning2_Friviligt\Övning2_Friviligt\bin\Debug\net5.0\Övning2_Friviligt.dll
+C:\Users\christopher.thomasi\source\repos\Övning2_Friviligt\Övning2_Friviligt\bin\Debug\net5.0\ref\Övning2_Friviligt.dll
+C:\Users\christopher.thomasi\source\repos\Övning2_Friviligt\Övning2_Friviligt\bin\Debug\net5.0\Övning2_Friviligt.pdb
+C:\Users\christopher.thomasi\source\repos\Övning2_Friviligt\Övning2_Friviligt\obj\Debug\net5.0\Övning2_Friviligt.csproj.AssemblyReference.cache
+C:\Users\christopher.thomasi\source\repos\Övning2_Friviligt\Övning2_Friviligt\obj\Debug\net5.0\Övning2_Friviligt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\christopher.thomasi\source\repos\Övning2_Friviligt\Övning2_Friviligt\obj\Debug\net5.0\Övning2_Friviligt.AssemblyInfoInputs.cache
+C:\Users\christopher.thomasi\source\repos\Övning2_Friviligt\Övning2_Friviligt\obj\Debug\net5.0\Övning2_Friviligt.AssemblyInfo.cs
+C:\Users\christopher.thomasi\source\repos\Övning2_Friviligt\Övning2_Friviligt\obj\Debug\net5.0\Övning2_Friviligt.csproj.CoreCompileInputs.cache
+C:\Users\christopher.thomasi\source\repos\Övning2_Friviligt\Övning2_Friviligt\obj\Debug\net5.0\Övning2_Friviligt.dll
+C:\Users\christopher.thomasi\source\repos\Övning2_Friviligt\Övning2_Friviligt\obj\Debug\net5.0\ref\Övning2_Friviligt.dll
+C:\Users\christopher.thomasi\source\repos\Övning2_Friviligt\Övning2_Friviligt\obj\Debug\net5.0\Övning2_Friviligt.pdb
+C:\Users\christopher.thomasi\source\repos\Övning2_Friviligt\Övning2_Friviligt\obj\Debug\net5.0\Övning2_Friviligt.genruntimeconfig.cache

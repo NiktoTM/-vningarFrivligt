@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Övning2_Friviligt/1.0.0": {
+        "runtime": {
+          "Övning2_Friviligt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Övning2_Friviligt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
