@@ -3,7 +3,7 @@
 // Abstract class
 abstract class Animal
 {
-    // Abstract methods (do not have bodies)
+    // Abstract methods 
     public abstract void animalSound();
     public abstract void spinna();
 
@@ -14,34 +14,34 @@ abstract class Animal
     }
 }
 
-// Derived class (inherit from Animal)
+// inherit from Animal
 class Pig : Animal
 {
     public override void animalSound()
     {
-        // The body of animalSound() is provided here
+        
         Console.WriteLine("The pig says: wee wee");
     }
 
     public override void spinna()
     {
-        // The body of spinna() is provided here
+        
         Console.WriteLine("Grisar kan inte spinna");
     }
 }
 
-// New derived class (inherit from Animal)
+
 class Cat : Animal
 {
     public override void animalSound()
     {
-        // The body of animalSound() is provided here
+    
         Console.WriteLine("Mjau");
     }
 
     public override void spinna()
     {
-        // The body of spinna() is provided here
+        
         Console.WriteLine("Katten spinner");
     }
 }
